@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.67.0",
+    "whois-json": "^2.0.4"
+  }
+}
